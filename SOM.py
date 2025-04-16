@@ -171,7 +171,7 @@ def run_test(data,classes,weights,num_tests):
         test_som(data,classes,weights)
     plt.show()
 
-som(data="cancer")
+som()
 
 
 
